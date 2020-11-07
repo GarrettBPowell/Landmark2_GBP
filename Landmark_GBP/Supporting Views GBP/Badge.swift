@@ -1,9 +1,9 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-A view that displays a badge.
-*/
+//
+//  Badge.swift
+//  Landmark_GBP
+//
+//  Created by Garrett Powell on 11/7/20.
+//
 
 import SwiftUI
 
