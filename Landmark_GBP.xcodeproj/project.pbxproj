@@ -41,6 +41,7 @@
 		46419251255758FC008D98EA /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46419250255758FC008D98EA /* HikeView.swift */; };
 		4641925525575966008D98EA /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641925325575966008D98EA /* GraphCapsule.swift */; };
 		4641925625575966008D98EA /* HikeGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641925425575966008D98EA /* HikeGraph.swift */; };
+		4641925925575A63008D98EA /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 4641925825575A62008D98EA /* hikeData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		46419250255758FC008D98EA /* HikeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
 		4641925325575966008D98EA /* GraphCapsule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
 		4641925425575966008D98EA /* HikeGraph.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeGraph.swift; sourceTree = "<group>"; };
+		4641925825575A62008D98EA /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 				4641918F255734A9008D98EA /* hiddenlake.jpg */,
 				46419190255734A9008D98EA /* twinlake.jpg */,
 				46419191255734A9008D98EA /* umbagog.jpg */,
+				4641925825575A62008D98EA /* hikeData.json */,
 				46419192255734A9008D98EA /* landmarkData.json */,
 				46419193255734A9008D98EA /* chincoteague.jpg */,
 				46419194255734A9008D98EA /* charleyrivers.jpg */,
@@ -245,6 +248,7 @@
 			files = (
 				4641919C255734A9008D98EA /* lakemcdonald.jpg in Resources */,
 				464191A6255734A9008D98EA /* rainbowlake.jpg in Resources */,
+				4641925925575A63008D98EA /* hikeData.json in Resources */,
 				4641919E255734A9008D98EA /* twinlake.jpg in Resources */,
 				464191A3255734A9008D98EA /* stmarylake.jpg in Resources */,
 				464191A0255734A9008D98EA /* landmarkData.json in Resources */,
