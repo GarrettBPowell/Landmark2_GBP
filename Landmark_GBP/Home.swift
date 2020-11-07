@@ -1,10 +1,9 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-A view showing featured landmarks above a list of all of the landmarks.
-*/
-
+//
+//  Home.swift
+//  Landmark_GBP
+//
+//  Created by Garrett Powell on 11/7/20.
+//
 import SwiftUI
 
 struct CategoryHome: View {
