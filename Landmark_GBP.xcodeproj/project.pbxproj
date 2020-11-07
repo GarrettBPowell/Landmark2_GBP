@@ -31,6 +31,7 @@
 		4641922C255749C1008D98EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4641922B255749C1008D98EA /* Assets.xcassets */; };
 		4641922F25574A3D008D98EA /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641922E25574A3D008D98EA /* Data.swift */; };
 		4641923725574E65008D98EA /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641920225573B6C008D98EA /* LandmarkList.swift */; };
+		4641923B2557532F008D98EA /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641923A2557532F008D98EA /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		4641922B255749C1008D98EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = SOURCE_ROOT; };
 		4641922E25574A3D008D98EA /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Data.swift; path = ../../../HandlingUserInput/StartingPoint/Landmarks/Landmarks/Models/Data.swift; sourceTree = "<group>"; };
 		4641923225574B79008D98EA /* Landmark_GBPApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Landmark_GBPApp.swift; path = Landmark_GBP/Landmark_GBPApp.swift; sourceTree = SOURCE_ROOT; };
+		4641923A2557532F008D98EA /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				4641918A255734A9008D98EA /* Resources */,
 				4641923225574B79008D98EA /* Landmark_GBPApp.swift */,
 				4641917A255731C6008D98EA /* Supporting Views GBP */,
+				4641923A2557532F008D98EA /* UserData.swift */,
 			);
 			path = Landmark_GBP;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				4641923725574E65008D98EA /* LandmarkList.swift in Sources */,
 				4641922F25574A3D008D98EA /* Data.swift in Sources */,
 				4641917E255731C6008D98EA /* CircleImage.swift in Sources */,
+				4641923B2557532F008D98EA /* UserData.swift in Sources */,
 				4641921625574562008D98EA /* AppDelegate.swift in Sources */,
 				4641920625573D10008D98EA /* LandmarkDetail.swift in Sources */,
 				4641917D255731C6008D98EA /* MapView.swift in Sources */,
