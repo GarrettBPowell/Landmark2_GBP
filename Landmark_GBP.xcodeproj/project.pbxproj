@@ -27,7 +27,6 @@
 		464191A5255734A9008D98EA /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46419197255734A9008D98EA /* chilkoottrail.jpg */; };
 		464191A6255734A9008D98EA /* rainbowlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46419198255734A9008D98EA /* rainbowlake.jpg */; };
 		464191BC255736C3008D98EA /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 464191BB255736C3008D98EA /* LandmarkRow.swift */; };
-		464191EC255738AD008D98EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 464191EB255738AD008D98EA /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,7 +52,7 @@
 		46419198255734A9008D98EA /* rainbowlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rainbowlake.jpg; sourceTree = "<group>"; };
 		464191BB255736C3008D98EA /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LandmarkRow.swift; path = ../LandmarkRow.swift; sourceTree = "<group>"; };
 		464191D2255737B1008D98EA /* Landmark_GBP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmark_GBP.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		464191EB255738AD008D98EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../BuildingListsAndNavigation/StartingPoint/Landmarks/Landmarks/Assets.xcassets; sourceTree = "<group>"; };
+		464191F325573908008D98EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../BuildingListsAndNavigation/StartingPoint/Landmarks/Landmarks/Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +69,6 @@
 		4641913825573123008D98EA = {
 			isa = PBXGroup;
 			children = (
-				464191EB255738AD008D98EA /* Assets.xcassets */,
 				4641914325573123008D98EA /* Landmark_GBP */,
 				4641914D25573128008D98EA /* Info.plist */,
 				464191D2255737B1008D98EA /* Landmark_GBP.app */,
@@ -80,6 +78,7 @@
 		4641914325573123008D98EA /* Landmark_GBP */ = {
 			isa = PBXGroup;
 			children = (
+				464191F325573908008D98EA /* Assets.xcassets */,
 				4641914625573124008D98EA /* ContentView.swift */,
 				4641914425573124008D98EA /* Landmark_GBPApp.swift */,
 				464191BB255736C3008D98EA /* LandmarkRow.swift */,
@@ -189,7 +188,6 @@
 				464191A6255734A9008D98EA /* rainbowlake.jpg in Resources */,
 				4641919E255734A9008D98EA /* twinlake.jpg in Resources */,
 				464191A3255734A9008D98EA /* stmarylake.jpg in Resources */,
-				464191EC255738AD008D98EA /* Assets.xcassets in Resources */,
 				464191A0255734A9008D98EA /* landmarkData.json in Resources */,
 				4641919A255734A9008D98EA /* silversalmoncreek.jpg in Resources */,
 				4641919B255734A9008D98EA /* icybay.jpg in Resources */,
@@ -341,7 +339,7 @@
 		4641916725573128008D98EA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Landmark_GBP/Preview Content\"";
@@ -362,7 +360,7 @@
 		4641916825573128008D98EA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Landmark_GBP/Preview Content\"";
