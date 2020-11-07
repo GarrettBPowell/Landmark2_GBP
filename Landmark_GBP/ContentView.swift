@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            MapView()
+            MapView(coordinate: coordinate)
                 .frame(height:300)
             
             CircleImage()
