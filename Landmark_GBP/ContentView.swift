@@ -10,10 +10,10 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            MapView(coordinate: coordinate)
+            MapView()
                 .frame(height:300)
             
-            CircleImage()
+            CircleImage(image: Image)
                 .offset(y: -130)
                 .padding(.bottom, -130)
             
