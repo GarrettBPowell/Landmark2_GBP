@@ -29,9 +29,9 @@
 		4641921A255745CB008D98EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46419219255745CB008D98EA /* Preview Assets.xcassets */; };
 		4641922125574644008D98EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4641921F25574644008D98EA /* LaunchScreen.storyboard */; };
 		4641922C255749C1008D98EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4641922B255749C1008D98EA /* Assets.xcassets */; };
-		4641922F25574A3D008D98EA /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641922E25574A3D008D98EA /* Data.swift */; };
 		4641923725574E65008D98EA /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641920225573B6C008D98EA /* LandmarkList.swift */; };
 		4641923B2557532F008D98EA /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641923A2557532F008D98EA /* UserData.swift */; };
+		4641923E255755F4008D98EA /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4641923D255755F4008D98EA /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,9 +60,9 @@
 		46419219255745CB008D98EA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4641922025574644008D98EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4641922B255749C1008D98EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = SOURCE_ROOT; };
-		4641922E25574A3D008D98EA /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Data.swift; path = ../../../HandlingUserInput/StartingPoint/Landmarks/Landmarks/Models/Data.swift; sourceTree = "<group>"; };
 		4641923225574B79008D98EA /* Landmark_GBPApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Landmark_GBPApp.swift; path = Landmark_GBP/Landmark_GBPApp.swift; sourceTree = SOURCE_ROOT; };
 		4641923A2557532F008D98EA /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		4641923D255755F4008D98EA /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,7 +116,7 @@
 		46419182255734A3008D98EA /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				4641922E25574A3D008D98EA /* Data.swift */,
+				4641923D255755F4008D98EA /* Data.swift */,
 				46419184255734A3008D98EA /* Landmark.swift */,
 			);
 			path = Models;
@@ -243,7 +243,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4641923725574E65008D98EA /* LandmarkList.swift in Sources */,
-				4641922F25574A3D008D98EA /* Data.swift in Sources */,
+				4641923E255755F4008D98EA /* Data.swift in Sources */,
 				4641917E255731C6008D98EA /* CircleImage.swift in Sources */,
 				4641923B2557532F008D98EA /* UserData.swift in Sources */,
 				4641921625574562008D98EA /* AppDelegate.swift in Sources */,
