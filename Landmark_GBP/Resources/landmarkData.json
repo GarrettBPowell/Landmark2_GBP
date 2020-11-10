@@ -253,5 +253,110 @@
             "latitude": 32.473554
         },
         "imageName": "acustadium"
+    },
+    {
+        "name": "ACU Starbucks",
+        "category": "ACU",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1018,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "ACU Campus",
+        "coordinates": {
+            "longitude": -99.709753,
+            "latitude": 32.46822
+        },
+        "imageName": "acustarbucks"
+    },
+    {
+        "name": "Aledo Water Tower",
+        "category": "Aledo",
+        "city": "Aledo",
+        "state": "Texas",
+        "id": 1019,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Aledo",
+        "coordinates": {
+            "longitude": -97.596307,
+            "latitude": 32.704650
+        },
+        "imageName": "watertower"
+    },
+    {
+        "name": "Bearcat Park",
+        "category": "Aledo",
+        "city": "Aledo",
+        "state": "Texas",
+        "id": 1020,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Aledo",
+        "coordinates": {
+            "longitude": -97.600573,
+            "latitude": 32.682448
+        },
+        "imageName": "bearcatpark"
+    },
+    {
+        "name": "Bryant Grain Elevator",
+        "category": "Aledo",
+        "city": "Aledo",
+        "state": "Texas",
+        "id": 1021,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Aledo",
+        "coordinates": {
+            "longitude": -97.600637,
+            "latitude": 32.695490
+        },
+        "imageName": "grain"
+    },
+    {
+        "name": "Abilene Christian University",
+        "category": "Abilene",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1022,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Abilene",
+        "coordinates": {
+            "longitude": -99.706344,
+            "latitude": 32.469083
+        },
+        "imageName": "acuCampus"
+    },
+    {
+        "name": "The Paramount",
+        "category": "Abilene",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1023,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Abilene",
+        "coordinates": {
+            "longitude": -99.734241,
+            "latitude": 32.452123
+        },
+        "imageName": "paramount"
+    },
+    {
+        "name": "Toothfairy Statue",
+        "category": "Abilene",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1024,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Abilene",
+        "coordinates": {
+            "longitude": -99.734027,
+            "latitude": 32.450665
+        },
+        "imageName": "tooth"
     }
 ]
