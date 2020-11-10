@@ -11,7 +11,8 @@ import SwiftUI
 struct Landmark_GBPApp: App {
     var body: some Scene {
         WindowGroup {
-            CategoryHome().enviromentObject(UserData())
+            CategoryHome()
+                .environmentObject(UserData())
         }
     }
 }
