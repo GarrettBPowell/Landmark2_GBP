@@ -193,5 +193,65 @@
             "latitude": 32.449010
         },
         "imageName": "pig"
+    },
+    {
+        "name": "The Cow",
+        "category": "Aledo",
+        "city": "Aledo",
+        "state": "Texas",
+        "id": 1014,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Side of Road",
+        "coordinates": {
+            "longitude": -97.546546,
+            "latitude": 32.628827
+        },
+        "imageName": "cow"
+    },
+    {
+        "name": "Jacob's Dream",
+        "category": "ACU",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1015,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "ACU Campus",
+        "coordinates": {
+            "longitude": -99.706451,
+            "latitude": 32.468416
+        },
+        "imageName": "jacob"
+    },
+    {
+        "name": "Tower of Light",
+        "category": "ACU",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1016,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "ACU Campus",
+        "coordinates": {
+            "longitude": -99.707780,
+            "latitude": 32.469348
+        },
+        "imageName": "tower"
+    },
+    {
+        "name": "Elmer Gray Stadium",
+        "category": "ACU",
+        "city": "Abilene",
+        "state": "Texas",
+        "id": 1017,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "ACU Campus",
+        "coordinates": {
+            "longitude": -99.709002,
+            "latitude": 32.473554
+        },
+        "imageName": "acustadium"
     }
 ]
